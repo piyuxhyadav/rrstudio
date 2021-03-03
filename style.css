@@ -2,6 +2,7 @@ h1{
     color: mediumseagreen;text-align: center;
 }
 h2{
+    border:3px solid salmon;
     color:royalblue; text-align: center ;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 tr{
@@ -24,10 +25,12 @@ td {
         background-color: mediumturquoise;
     }
     div{
+        border:2px solid tomato;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         margin-left: 35%;
         padding: 30px;
         background-color: mistyrose;
-       width: 20%;
+        width: 20%;
         
     
         
